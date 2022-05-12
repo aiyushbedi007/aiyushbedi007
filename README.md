@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aiyush Bedi
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me ... mail me on aiyushbedi@gmail.com
 
 <!---
