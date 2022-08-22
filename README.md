@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aiyush Bedi
-- 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m a Senior Fullstack Developer
+- 🌱 I’m currently learning Kubernates and NestJS
 - 📫 How to reach me ... mail me on aiyushbedi@gmail.com
 
 <!---
